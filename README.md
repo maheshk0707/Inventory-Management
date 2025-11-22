@@ -71,10 +71,16 @@ How to Use :
 
 1.Open the .pbix file in Power BI Desktop.
 
-2.Use filters at the top to explore data by year, month, or state.
+2.Hover over charts to see detailed insights for each product group or vendor.
 
-3.Hover over visuals for detailed insights and tooltips.
+3.Navigate through the visuals to view key metrics like total stock, inventory value, and restocking cost.
 
+4.Use the item-level table to check stock availability, yearly sales, and inventory value for each item.
+
+5.Compare vendor performance using the Top 5 Vendor visuals to understand who supplies the most units or value.
+
+6.Identify high-value or low-stock items using the color-coded indicators for quick decision-making.
+.
 Data Source : Kaggle Dataset
 
 Screenshot/Demos :

@@ -1,11 +1,19 @@
 **INVENTORY MANAGEMENT**
+
 This Power BI dashboard provides a comprehensive view of inventory performance, stock levels, vendor efficiency, and restocking costs. It is designed to help businesses monitor their inventory health, identify high-value items, and evaluate vendor contributions clearly and efficiently.
+
 Tech Stack :
+
 This dashboard was built using the following tools and technologies :
+
 1.Power BI Desktop - Main data visualization platform used for report creation.
+
 2.Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+
 3.DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals and conditional logic.
+
 4.Data Modeling - Relationships established among tables to enabling cross filtering and aggregation.
+
 5.File Format - .pbix for development and .png for dashboard preview.
 Key Features –
 Total Stock Inventory: 12,103 units

@@ -80,7 +80,7 @@ How to Use :
 5.Compare vendor performance using the Top 5 Vendor visuals to understand who supplies the most units or value.
 
 6.Identify high-value or low-stock items using the color-coded indicators for quick decision-making.
-.
+
 Data Source : Kaggle Dataset
 
 Screenshot/Demos :

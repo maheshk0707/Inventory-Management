@@ -1,4 +1,4 @@
-**INVENTORY MANAGEMENT**
+**INVENTORY MANAGEMENT DASHBOARD**
 
 This Power BI dashboard provides a comprehensive view of inventory performance, stock levels, vendor efficiency, and restocking costs. It is designed to help businesses monitor their inventory health, identify high-value items, and evaluate vendor contributions clearly and efficiently.
 
